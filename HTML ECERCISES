@@ -1,0 +1,28 @@
+ <!doctype html>
+<html>
+    <head>
+          <title> Week 1 Exercises </title>
+         <nav> //LISTNING THE LINK AS NAVIGATION 
+            <ul>
+               <li><a href="week1.html">week 1 part a</a></li>
+               <li><a href="week1 b.html">week1 part b</a></li>
+          
+            </ul>
+         </nav>
+    </head>
+    <body>
+          <h1> CSYM015 – Media Techniques</h1>  //HEADING
+          <p> This module describes the way in which each media is stored and manipulated within a computer system. The module guides the student through the techniques used which are all demonstrated by practical examples. </p>
+          <ul> //LISTINING 
+             <li>Field: Computing</li>
+             <li>Level: MSc</li>
+             <li>Lecturer: MO MO</li>
+             <li>Level: 7</li>
+             <li>Time: 11:00</li>
+             <li>Credit Value: 20</li>
+          </ul>  
+
+      </body>
+      
+
+ </html>  
